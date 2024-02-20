@@ -1,0 +1,24 @@
+RamChandra Reddy Chintala
+Hyderabad, India
+076758 86590
+ramcreddy.ch@gmail.com
+
+
+Hiring Manager
+Deriv
+Dubai, UAE
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior Security Architect position at Deriv in Dubai. With over 12 years of experience in information security, cloud security, and DevSecOps, I am excited about the opportunity to safeguard Deriv's digital assets and contribute to the security of millions of traders worldwide.
+
+In my current role as a Senior Cloud/DevOps Engineer at SagarSoft, I have been at the forefront of designing and implementing security solutions for large-scale, cloud-native applications. My work has focused on integrating security best practices into every layer of the software development lifecycle, ensuring that our systems are resilient and secure. I have successfully led initiatives to implement security measures within CI/CD pipelines, resulting in a 30% reduction in security vulnerabilities and a 99.99% deployment success rate.
+
+My hands-on experience with cloud platforms like AWS and Azure, coupled with my expertise in container orchestration using Kubernetes and Docker, has equipped me with the skills needed to protect and optimize complex infrastructures. I have also been responsible for safeguarding financial transactions and ensuring compliance with industry standards, making me well-prepared to secure Deriv's payment systems and financial ecosystem.
+
+I am particularly drawn to this opportunity at Deriv because of the chance to collaborate with top talent in Dubai’s vibrant security ecosystem. I am eager to bring my expertise in security architecture, cloud security, and DevSecOps to your team, contributing to the protection of your digital assets and the financial futures of your clients.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my experience and skills can help drive the success of Deriv. I am available at your earliest convenience for an interview and can be reached at 076758 86590 or via email at ramcreddy.ch@gmail.com.
+
+Sincerely,
+RamChandra Reddy Chintala
